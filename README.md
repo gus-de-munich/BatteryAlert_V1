@@ -11,3 +11,5 @@ To download:
 1) use .dmg file (you might have to go in the settings to allow the app to launch)
 2) use .zip file
 3) use install.sh file and paste "chmod +x ~/Downloads/install.sh && ~/Downloads/install.sh" in you terminal
+
+My only condition to use my app: don't make money on my back please 🙃
