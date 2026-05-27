@@ -7,7 +7,7 @@ This app allows you to simply set custom alarms for custom battery levels (simpl
 
 You can set custom styles (fixed custom color, custom gradient...). So, have fun, it's 100% free!
 
-To download:
+To download (3 options):
 1) use .dmg file (you might have to go in the settings to allow the app to launch)
 2) use .zip file
 3) use install.sh file and paste "chmod +x ~/Downloads/install.sh && ~/Downloads/install.sh" in you terminal
