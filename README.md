@@ -10,6 +10,6 @@ You can set custom styles (fixed custom color, custom gradient...). So, have fun
 To download (3 options):
 1) use .dmg file (you might have to go in the settings to allow the app to launch)
 2) use .zip file
-3) use install.sh file and paste "chmod +x ~/Downloads/install.sh && ~/Downloads/install.sh" in you terminal
+3) use install.sh file and paste "chmod +x ~/Downloads/install.sh && ~/Downloads/install.sh" in you terminal (⚠️ you must have Xcode installed for this option to work!)
 
 My only condition to use my app: don't make money on my back please 🙃
